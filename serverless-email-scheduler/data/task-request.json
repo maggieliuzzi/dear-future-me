@@ -1,0 +1,10 @@
+{
+    "dueDate": "2019-07-13T04:28:00Z",
+    "email": {
+        "to": ["mrmliuzzi@gmail.com"],
+        "subject": "A message from your past self",
+        "textBody": "",
+        "htmlBody": "<img src='https://image.slidesharecdn.com/cmaukanopenlettertoonlinepublishersandbloggers-160812122310/95/cma-uk-an-open-letter-to-online-publishers-and-bloggers-1-638.jpg?cb=1471004824'/>"
+    },
+    "appendScheduleDateToBody": true
+}
